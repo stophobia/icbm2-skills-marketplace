@@ -31,8 +31,8 @@
   },
   "agent-benchmark-tracker": {
     "filename": "agent-benchmark-tracker.zip",
-    "size_bytes": 3210,
-    "size_human": "3.1 KB",
+    "size_bytes": 3731,
+    "size_human": "3.6 KB",
     "file_count": 1
   },
   "agentnews-monitor": {
@@ -199,8 +199,8 @@
   },
   "notebooklm-youtube-automation": {
     "filename": "notebooklm-youtube-automation.zip",
-    "size_bytes": 12009,
-    "size_human": "11.7 KB",
+    "size_bytes": 12301,
+    "size_human": "12.0 KB",
     "file_count": 1
   },
   "notion-dashboard": {
@@ -247,8 +247,8 @@
   },
   "tistory-publisher": {
     "filename": "tistory-publisher.zip",
-    "size_bytes": 20242,
-    "size_human": "19.8 KB",
+    "size_bytes": 20369,
+    "size_human": "19.9 KB",
     "file_count": 1
   },
   "trading-strategy": {

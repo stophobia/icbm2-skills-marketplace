@@ -97,8 +97,8 @@
   },
   "dev-news-to-wiki": {
     "filename": "dev-news-to-wiki.zip",
-    "size_bytes": 3390,
-    "size_human": "3.3 KB",
+    "size_bytes": 3965,
+    "size_human": "3.9 KB",
     "file_count": 1
   },
   "docker-manager": {
@@ -205,9 +205,9 @@
   },
   "notebooklm-youtube-automation": {
     "filename": "notebooklm-youtube-automation.zip",
-    "size_bytes": 13930,
-    "size_human": "13.6 KB",
-    "file_count": 2
+    "size_bytes": 8362,
+    "size_human": "8.2 KB",
+    "file_count": 4
   },
   "notion-dashboard": {
     "filename": "notion-dashboard.zip",
@@ -253,7 +253,7 @@
   },
   "tistory-publisher": {
     "filename": "tistory-publisher.zip",
-    "size_bytes": 21396,
+    "size_bytes": 21440,
     "size_human": "20.9 KB",
     "file_count": 1
   },

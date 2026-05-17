@@ -37,8 +37,8 @@
   },
   "agent-benchmark-tracker": {
     "filename": "agent-benchmark-tracker.zip",
-    "size_bytes": 3731,
-    "size_human": "3.6 KB",
+    "size_bytes": 4372,
+    "size_human": "4.3 KB",
     "file_count": 1
   },
   "agentnews-monitor": {
@@ -259,8 +259,8 @@
   },
   "tistory-publisher": {
     "filename": "tistory-publisher.zip",
-    "size_bytes": 38162,
-    "size_human": "37.3 KB",
+    "size_bytes": 40530,
+    "size_human": "39.6 KB",
     "file_count": 3
   },
   "trading-strategy": {
@@ -283,7 +283,7 @@
   },
   "weekly-tech-digest": {
     "filename": "weekly-tech-digest.zip",
-    "size_bytes": 3930,
+    "size_bytes": 3937,
     "size_human": "3.8 KB",
     "file_count": 1
   },

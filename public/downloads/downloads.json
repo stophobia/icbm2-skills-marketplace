@@ -103,8 +103,8 @@
   },
   "dev-news-to-wiki": {
     "filename": "dev-news-to-wiki.zip",
-    "size_bytes": 5236,
-    "size_human": "5.1 KB",
+    "size_bytes": 4931,
+    "size_human": "4.8 KB",
     "file_count": 1
   },
   "docker-manager": {
@@ -247,9 +247,9 @@
   },
   "tistory-publisher": {
     "filename": "tistory-publisher.zip",
-    "size_bytes": 51930,
-    "size_human": "50.7 KB",
-    "file_count": 6
+    "size_bytes": 53189,
+    "size_human": "51.9 KB",
+    "file_count": 7
   },
   "trading-strategy": {
     "filename": "trading-strategy.zip",

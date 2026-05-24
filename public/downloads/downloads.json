@@ -55,9 +55,9 @@
   },
   "api-key-manager": {
     "filename": "api-key-manager.zip",
-    "size_bytes": 3214,
-    "size_human": "3.1 KB",
-    "file_count": 2
+    "size_bytes": 4177,
+    "size_human": "4.1 KB",
+    "file_count": 3
   },
   "auto-researcher": {
     "filename": "auto-researcher.zip",
@@ -97,9 +97,9 @@
   },
   "cron-stale-triage": {
     "filename": "cron-stale-triage.zip",
-    "size_bytes": 4716,
-    "size_human": "4.6 KB",
-    "file_count": 1
+    "size_bytes": 5727,
+    "size_human": "5.6 KB",
+    "file_count": 2
   },
   "dev-news-to-wiki": {
     "filename": "dev-news-to-wiki.zip",
@@ -118,6 +118,12 @@
     "size_bytes": 1731,
     "size_human": "1.7 KB",
     "file_count": 1
+  },
+  "gallery-sync": {
+    "filename": "gallery-sync.zip",
+    "size_bytes": 2631,
+    "size_human": "2.6 KB",
+    "file_count": 2
   },
   "gazette-trend-analyzer": {
     "filename": "gazette-trend-analyzer.zip",
@@ -199,15 +205,15 @@
   },
   "music-video-generator": {
     "filename": "music-video-generator.zip",
-    "size_bytes": 38828,
-    "size_human": "37.9 KB",
-    "file_count": 13
+    "size_bytes": 79913,
+    "size_human": "78.0 KB",
+    "file_count": 35
   },
   "music-video-pipeline": {
     "filename": "music-video-pipeline.zip",
-    "size_bytes": 13601,
-    "size_human": "13.3 KB",
-    "file_count": 5
+    "size_bytes": 17478,
+    "size_human": "17.1 KB",
+    "file_count": 6
   },
   "nightly-maintenance-workflow": {
     "filename": "nightly-maintenance-workflow.zip",
@@ -217,8 +223,8 @@
   },
   "notebooklm-youtube-automation": {
     "filename": "notebooklm-youtube-automation.zip",
-    "size_bytes": 27477,
-    "size_human": "26.8 KB",
+    "size_bytes": 27821,
+    "size_human": "27.2 KB",
     "file_count": 14
   },
   "notion-dashboard": {
@@ -259,9 +265,9 @@
   },
   "tistory-publisher": {
     "filename": "tistory-publisher.zip",
-    "size_bytes": 77415,
-    "size_human": "75.6 KB",
-    "file_count": 17
+    "size_bytes": 80718,
+    "size_human": "78.8 KB",
+    "file_count": 19
   },
   "trading-strategy": {
     "filename": "trading-strategy.zip",
@@ -307,9 +313,9 @@
   },
   "hermes-agent": {
     "filename": "hermes-agent.zip",
-    "size_bytes": 9533,
-    "size_human": "9.3 KB",
-    "file_count": 1
+    "size_bytes": 10350,
+    "size_human": "10.1 KB",
+    "file_count": 2
   },
   "opencode": {
     "filename": "opencode.zip",
@@ -685,8 +691,8 @@
   },
   "minimax-image-gen": {
     "filename": "minimax-image-gen.zip",
-    "size_bytes": 2424,
-    "size_human": "2.4 KB",
+    "size_bytes": 2822,
+    "size_human": "2.8 KB",
     "file_count": 2
   },
   "modal-serverless-gpu": {
@@ -859,9 +865,9 @@
   },
   "notion": {
     "filename": "notion.zip",
-    "size_bytes": 10010,
-    "size_human": "9.8 KB",
-    "file_count": 4
+    "size_bytes": 12460,
+    "size_human": "12.2 KB",
+    "file_count": 5
   },
   "ocr-and-documents": {
     "filename": "ocr-and-documents.zip",

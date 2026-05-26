@@ -103,9 +103,9 @@
   },
   "dev-news-to-wiki": {
     "filename": "dev-news-to-wiki.zip",
-    "size_bytes": 4931,
-    "size_human": "4.8 KB",
-    "file_count": 1
+    "size_bytes": 6562,
+    "size_human": "6.4 KB",
+    "file_count": 2
   },
   "docker-manager": {
     "filename": "docker-manager.zip",
@@ -205,9 +205,9 @@
   },
   "music-video-generator": {
     "filename": "music-video-generator.zip",
-    "size_bytes": 97035,
-    "size_human": "94.8 KB",
-    "file_count": 42
+    "size_bytes": 103883,
+    "size_human": "101.4 KB",
+    "file_count": 45
   },
   "nightly-maintenance-workflow": {
     "filename": "nightly-maintenance-workflow.zip",
@@ -259,9 +259,9 @@
   },
   "tistory-publisher": {
     "filename": "tistory-publisher.zip",
-    "size_bytes": 85165,
-    "size_human": "83.2 KB",
-    "file_count": 22
+    "size_bytes": 87127,
+    "size_human": "85.1 KB",
+    "file_count": 23
   },
   "trading-strategy": {
     "filename": "trading-strategy.zip",

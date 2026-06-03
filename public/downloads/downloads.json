@@ -1,15 +1,15 @@
 {
   "daily-self-review": {
     "filename": "daily-self-review.zip",
-    "size_bytes": 7822,
-    "size_human": "7.6 KB",
-    "file_count": 3
+    "size_bytes": 10807,
+    "size_human": "10.6 KB",
+    "file_count": 4
   },
   "ai-model-tracker": {
     "filename": "ai-model-tracker.zip",
-    "size_bytes": 9790,
-    "size_human": "9.6 KB",
-    "file_count": 4
+    "size_bytes": 7071,
+    "size_human": "6.9 KB",
+    "file_count": 2
   },
   "apple-notes": {
     "filename": "apple-notes.zip",
@@ -155,12 +155,6 @@
     "size_human": "1.6 KB",
     "file_count": 1
   },
-  "ios-trend-digest": {
-    "filename": "ios-trend-digest.zip",
-    "size_bytes": 4778,
-    "size_human": "4.7 KB",
-    "file_count": 2
-  },
   "kaggle-model-guide": {
     "filename": "kaggle-model-guide.zip",
     "size_bytes": 3099,
@@ -169,9 +163,9 @@
   },
   "kaggle-music-voice-gen": {
     "filename": "kaggle-music-voice-gen.zip",
-    "size_bytes": 708,
-    "size_human": "0.7 KB",
-    "file_count": 1
+    "size_bytes": 6707,
+    "size_human": "6.5 KB",
+    "file_count": 3
   },
   "knowledge-graph": {
     "filename": "knowledge-graph.zip",
@@ -265,9 +259,9 @@
   },
   "tistory-publisher": {
     "filename": "tistory-publisher.zip",
-    "size_bytes": 121015,
-    "size_human": "118.2 KB",
-    "file_count": 41
+    "size_bytes": 136544,
+    "size_human": "133.3 KB",
+    "file_count": 48
   },
   "trading-strategy": {
     "filename": "trading-strategy.zip",
@@ -653,6 +647,12 @@
     "size_human": "31.1 KB",
     "file_count": 10
   },
+  "ios-trend-digest": {
+    "filename": "ios-trend-digest.zip",
+    "size_bytes": 2983,
+    "size_human": "2.9 KB",
+    "file_count": 1
+  },
   "find-nearby": {
     "filename": "find-nearby.zip",
     "size_bytes": 4260,
@@ -671,6 +671,12 @@
     "size_human": "4.7 KB",
     "file_count": 1
   },
+  "ai-music-generation": {
+    "filename": "ai-music-generation.zip",
+    "size_bytes": 6891,
+    "size_human": "6.7 KB",
+    "file_count": 2
+  },
   "gif-search": {
     "filename": "gif-search.zip",
     "size_bytes": 1356,
@@ -683,6 +689,24 @@
     "size_human": "3.2 KB",
     "file_count": 1
   },
+  "korean-ballad-from-reference": {
+    "filename": "korean-ballad-from-reference.zip",
+    "size_bytes": 2917,
+    "size_human": "2.8 KB",
+    "file_count": 1
+  },
+  "minimax-mmx-music": {
+    "filename": "minimax-mmx-music.zip",
+    "size_bytes": 11812,
+    "size_human": "11.5 KB",
+    "file_count": 5
+  },
+  "remote-file-delivery": {
+    "filename": "remote-file-delivery.zip",
+    "size_bytes": 2581,
+    "size_human": "2.5 KB",
+    "file_count": 1
+  },
   "songsee": {
     "filename": "songsee.zip",
     "size_bytes": 1276,
@@ -693,6 +717,12 @@
     "filename": "spotify.zip",
     "size_bytes": 2756,
     "size_human": "2.7 KB",
+    "file_count": 1
+  },
+  "telegram-mp3-voice-bubble": {
+    "filename": "telegram-mp3-voice-bubble.zip",
+    "size_bytes": 1793,
+    "size_human": "1.8 KB",
     "file_count": 1
   },
   "youtube-content": {

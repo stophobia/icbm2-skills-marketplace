@@ -1,9 +1,9 @@
 {
   "daily-self-review": {
     "filename": "daily-self-review.zip",
-    "size_bytes": 12912,
-    "size_human": "12.6 KB",
-    "file_count": 5
+    "size_bytes": 15631,
+    "size_human": "15.3 KB",
+    "file_count": 6
   },
   "ai-model-tracker": {
     "filename": "ai-model-tracker.zip",
@@ -211,15 +211,15 @@
   },
   "nightly-maintenance-workflow": {
     "filename": "nightly-maintenance-workflow.zip",
-    "size_bytes": 9212,
-    "size_human": "9.0 KB",
-    "file_count": 3
+    "size_bytes": 12815,
+    "size_human": "12.5 KB",
+    "file_count": 4
   },
   "notebooklm-youtube-automation": {
     "filename": "notebooklm-youtube-automation.zip",
-    "size_bytes": 52885,
-    "size_human": "51.6 KB",
-    "file_count": 24
+    "size_bytes": 55547,
+    "size_human": "54.2 KB",
+    "file_count": 25
   },
   "notion-dashboard": {
     "filename": "notion-dashboard.zip",
@@ -259,8 +259,8 @@
   },
   "tistory-publisher": {
     "filename": "tistory-publisher.zip",
-    "size_bytes": 144755,
-    "size_human": "141.4 KB",
+    "size_bytes": 145851,
+    "size_human": "142.4 KB",
     "file_count": 52
   },
   "trading-strategy": {
@@ -637,9 +637,9 @@
   },
   "github-trending-monitor": {
     "filename": "github-trending-monitor.zip",
-    "size_bytes": 1331,
-    "size_human": "1.3 KB",
-    "file_count": 1
+    "size_bytes": 4121,
+    "size_human": "4.0 KB",
+    "file_count": 2
   },
   "impeccable": {
     "filename": "impeccable.zip",
@@ -967,9 +967,9 @@
   },
   "llm-wiki": {
     "filename": "llm-wiki.zip",
-    "size_bytes": 10118,
-    "size_human": "9.9 KB",
-    "file_count": 1
+    "size_bytes": 14001,
+    "size_human": "13.7 KB",
+    "file_count": 2
   },
   "polymarket": {
     "filename": "polymarket.zip",

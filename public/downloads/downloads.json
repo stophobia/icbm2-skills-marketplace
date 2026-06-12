@@ -1,9 +1,9 @@
 {
   "daily-self-review": {
     "filename": "daily-self-review.zip",
-    "size_bytes": 48335,
-    "size_human": "47.2 KB",
-    "file_count": 14
+    "size_bytes": 56531,
+    "size_human": "55.2 KB",
+    "file_count": 15
   },
   "ai-model-tracker": {
     "filename": "ai-model-tracker.zip",
@@ -37,8 +37,8 @@
   },
   "auto-researcher": {
     "filename": "auto-researcher.zip",
-    "size_bytes": 2571,
-    "size_human": "2.5 KB",
+    "size_bytes": 3310,
+    "size_human": "3.2 KB",
     "file_count": 1
   },
   "automation-audit-ops": {
@@ -121,9 +121,9 @@
   },
   "icbm2-daily-workspace-cleanup": {
     "filename": "icbm2-daily-workspace-cleanup.zip",
-    "size_bytes": 5385,
-    "size_human": "5.3 KB",
-    "file_count": 2
+    "size_bytes": 6819,
+    "size_human": "6.7 KB",
+    "file_count": 3
   },
   "image-analysis": {
     "filename": "image-analysis.zip",
@@ -193,14 +193,14 @@
   },
   "nightly-maintenance-workflow": {
     "filename": "nightly-maintenance-workflow.zip",
-    "size_bytes": 35135,
-    "size_human": "34.3 KB",
+    "size_bytes": 36951,
+    "size_human": "36.1 KB",
     "file_count": 9
   },
   "notebooklm-youtube-automation": {
     "filename": "notebooklm-youtube-automation.zip",
-    "size_bytes": 63878,
-    "size_human": "62.4 KB",
+    "size_bytes": 64566,
+    "size_human": "63.1 KB",
     "file_count": 27
   },
   "notion-dashboard": {
@@ -217,8 +217,8 @@
   },
   "python-oss-bootstrap": {
     "filename": "python-oss-bootstrap.zip",
-    "size_bytes": 10643,
-    "size_human": "10.4 KB",
+    "size_bytes": 11304,
+    "size_human": "11.0 KB",
     "file_count": 5
   },
   "smart-summary": {
@@ -247,9 +247,9 @@
   },
   "tistory-publisher": {
     "filename": "tistory-publisher.zip",
-    "size_bytes": 277117,
-    "size_human": "270.6 KB",
-    "file_count": 104
+    "size_bytes": 276462,
+    "size_human": "270.0 KB",
+    "file_count": 113
   },
   "trading-strategy": {
     "filename": "trading-strategy.zip",
@@ -448,6 +448,12 @@
     "size_bytes": 5265,
     "size_human": "5.1 KB",
     "file_count": 1
+  },
+  "text-game-builder": {
+    "filename": "text-game-builder.zip",
+    "size_bytes": 36927,
+    "size_human": "36.1 KB",
+    "file_count": 12
   },
   "touchdesigner-mcp": {
     "filename": "touchdesigner-mcp.zip",
@@ -883,8 +889,8 @@
   },
   "llm-wiki": {
     "filename": "llm-wiki.zip",
-    "size_bytes": 16484,
-    "size_human": "16.1 KB",
+    "size_bytes": 17551,
+    "size_human": "17.1 KB",
     "file_count": 2
   },
   "polymarket": {

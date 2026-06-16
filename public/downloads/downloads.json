@@ -1,9 +1,9 @@
 {
   "daily-self-review": {
     "filename": "daily-self-review.zip",
-    "size_bytes": 69687,
-    "size_human": "68.1 KB",
-    "file_count": 18
+    "size_bytes": 74220,
+    "size_human": "72.5 KB",
+    "file_count": 19
   },
   "ai-model-tracker": {
     "filename": "ai-model-tracker.zip",
@@ -55,9 +55,9 @@
   },
   "automation-healthcheck": {
     "filename": "automation-healthcheck.zip",
-    "size_bytes": 4369,
-    "size_human": "4.3 KB",
-    "file_count": 1
+    "size_bytes": 14777,
+    "size_human": "14.4 KB",
+    "file_count": 3
   },
   "chrome-automation": {
     "filename": "chrome-automation.zip",
@@ -79,9 +79,9 @@
   },
   "dev-news-to-wiki": {
     "filename": "dev-news-to-wiki.zip",
-    "size_bytes": 10639,
-    "size_human": "10.4 KB",
-    "file_count": 3
+    "size_bytes": 16369,
+    "size_human": "16.0 KB",
+    "file_count": 4
   },
   "docker-manager": {
     "filename": "docker-manager.zip",
@@ -193,15 +193,15 @@
   },
   "nightly-maintenance-workflow": {
     "filename": "nightly-maintenance-workflow.zip",
-    "size_bytes": 48658,
-    "size_human": "47.5 KB",
-    "file_count": 11
+    "size_bytes": 52017,
+    "size_human": "50.8 KB",
+    "file_count": 12
   },
   "notebooklm-youtube-automation": {
     "filename": "notebooklm-youtube-automation.zip",
-    "size_bytes": 67933,
-    "size_human": "66.3 KB",
-    "file_count": 27
+    "size_bytes": 76495,
+    "size_human": "74.7 KB",
+    "file_count": 29
   },
   "notion-dashboard": {
     "filename": "notion-dashboard.zip",
@@ -217,9 +217,9 @@
   },
   "python-oss-bootstrap": {
     "filename": "python-oss-bootstrap.zip",
-    "size_bytes": 11304,
-    "size_human": "11.0 KB",
-    "file_count": 5
+    "size_bytes": 42263,
+    "size_human": "41.3 KB",
+    "file_count": 7
   },
   "smart-summary": {
     "filename": "smart-summary.zip",
@@ -247,9 +247,9 @@
   },
   "tistory-publisher": {
     "filename": "tistory-publisher.zip",
-    "size_bytes": 348635,
-    "size_human": "340.5 KB",
-    "file_count": 132
+    "size_bytes": 378579,
+    "size_human": "369.7 KB",
+    "file_count": 143
   },
   "trading-strategy": {
     "filename": "trading-strategy.zip",
@@ -637,8 +637,8 @@
   },
   "youtube-content": {
     "filename": "youtube-content.zip",
-    "size_bytes": 4320,
-    "size_human": "4.2 KB",
+    "size_bytes": 4392,
+    "size_human": "4.3 KB",
     "file_count": 3
   },
   "minimax-image-gen": {
@@ -787,7 +787,7 @@
   },
   "airtable": {
     "filename": "airtable.zip",
-    "size_bytes": 4600,
+    "size_bytes": 4616,
     "size_human": "4.5 KB",
     "file_count": 1
   },
@@ -847,7 +847,7 @@
   },
   "teams-meeting-pipeline": {
     "filename": "teams-meeting-pipeline.zip",
-    "size_bytes": 2986,
+    "size_bytes": 3004,
     "size_human": "2.9 KB",
     "file_count": 1
   },
@@ -939,6 +939,12 @@
     "filename": "requesting-code-review.zip",
     "size_bytes": 3998,
     "size_human": "3.9 KB",
+    "file_count": 1
+  },
+  "simplify-code": {
+    "filename": "simplify-code.zip",
+    "size_bytes": 4099,
+    "size_human": "4.0 KB",
     "file_count": 1
   },
   "spike": {

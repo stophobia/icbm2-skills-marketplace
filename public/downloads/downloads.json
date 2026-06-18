@@ -1,9 +1,9 @@
 {
   "daily-self-review": {
     "filename": "daily-self-review.zip",
-    "size_bytes": 74220,
-    "size_human": "72.5 KB",
-    "file_count": 19
+    "size_bytes": 78594,
+    "size_human": "76.8 KB",
+    "file_count": 20
   },
   "ai-model-tracker": {
     "filename": "ai-model-tracker.zip",
@@ -193,14 +193,14 @@
   },
   "nightly-maintenance-workflow": {
     "filename": "nightly-maintenance-workflow.zip",
-    "size_bytes": 54536,
-    "size_human": "53.3 KB",
+    "size_bytes": 56044,
+    "size_human": "54.7 KB",
     "file_count": 12
   },
   "notebooklm-youtube-automation": {
     "filename": "notebooklm-youtube-automation.zip",
-    "size_bytes": 78569,
-    "size_human": "76.7 KB",
+    "size_bytes": 79436,
+    "size_human": "77.6 KB",
     "file_count": 30
   },
   "notion-dashboard": {
@@ -217,8 +217,8 @@
   },
   "python-oss-bootstrap": {
     "filename": "python-oss-bootstrap.zip",
-    "size_bytes": 53297,
-    "size_human": "52.0 KB",
+    "size_bytes": 53483,
+    "size_human": "52.2 KB",
     "file_count": 8
   },
   "smart-summary": {
@@ -247,9 +247,15 @@
   },
   "tistory-publisher": {
     "filename": "tistory-publisher.zip",
-    "size_bytes": 374533,
-    "size_human": "365.8 KB",
-    "file_count": 152
+    "size_bytes": 410402,
+    "size_human": "400.8 KB",
+    "file_count": 160
+  },
+  "tokscale": {
+    "filename": "tokscale.zip",
+    "size_bytes": 7815,
+    "size_human": "7.6 KB",
+    "file_count": 2
   },
   "trading-strategy": {
     "filename": "trading-strategy.zip",
@@ -307,9 +313,9 @@
   },
   "canvas-static-site-pipeline": {
     "filename": "canvas-static-site-pipeline.zip",
-    "size_bytes": 22178,
-    "size_human": "21.7 KB",
-    "file_count": 6
+    "size_bytes": 33307,
+    "size_human": "32.5 KB",
+    "file_count": 8
   },
   "architecture-diagram": {
     "filename": "architecture-diagram.zip",
@@ -577,9 +583,9 @@
   },
   "ios-trend-digest": {
     "filename": "ios-trend-digest.zip",
-    "size_bytes": 8622,
-    "size_human": "8.4 KB",
-    "file_count": 3
+    "size_bytes": 11525,
+    "size_human": "11.3 KB",
+    "file_count": 4
   },
   "find-nearby": {
     "filename": "find-nearby.zip",
